@@ -4,4 +4,4 @@
 indicadores e botões de navegação que garantem uma excelente navegabilidade no projeto.
 
 🔗 Confira a apresentação online no PowerPoint clicando no link abaixo:
-https://docs.google.com/presentation/d/1iKiKcDuggODkxxfGDAIFQAW3b77X9EZY/edit?usp=sharing&ouid=115836587036383397219&rtpof=true&sd=true
+https://app.powerbi.com/groups/me/reports/d86956cf-20f7-4ec1-bfc8-09f2eec88414/ReportSection97cbc83821537e2e2f6e?experience=power-bi
